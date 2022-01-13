@@ -1,0 +1,12 @@
+
+
+.button-container{
+  border: 1px solid black;  /* show outline of div box*/
+  display: flex; /* turn on display flex*/
+  justify-content: center; /* place item in center of div box */
+  height: 100vh; /* make the height of box take up the entire screen/viewport*/
+  align-items: center; /* place item in center of screen*/  
+}
+
+
+
